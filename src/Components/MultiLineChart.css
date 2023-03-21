@@ -1,0 +1,18 @@
+.date-range{
+    display: flex;
+    width: 330px;
+    margin-left: 20px;
+}
+.total-count{
+    display: flex;;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.total{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
